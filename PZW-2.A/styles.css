@@ -1,0 +1,37 @@
+body {
+    background-image: linear-gradient(azure, silver, azure);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: silver;
+}
+
+h2 {
+    font-family: Monaco, monospace;
+    font-size: 20px;
+}
+
+a:link {
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover {
+    color: purple;
+    font-size: 30px;
+}
+
+img {
+    border-radius: 8%;
+}
+
+hr {
+    border-color: purple;
+}
